@@ -5,7 +5,6 @@ const Layout = () => {
   return (
     <div className={classes.layout}>
       <NavBar />
-      {/* <Outlet /> */}
     </div>
   );
 };
